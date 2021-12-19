@@ -1,0 +1,11 @@
+{
+  "name": "LCU-build",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "svenpetermanec <sven.petermanec@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "lcu-connector": "^2.1.3"
+  }
+}
